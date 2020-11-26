@@ -8,7 +8,7 @@
 
 ## Description
 
-A samlle project to let you try VS Code container with oh-my-zsh, powerlevel10k theme
+A sample project to let you try VS Code container (Kubernetes Image) with oh-my-zsh, powerlevel10k theme
 
 ## Setup
 
