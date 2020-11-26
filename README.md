@@ -1,4 +1,4 @@
-# Development Containers: Oh my zsh
+# VS Code dev containers with Oh my zsh
 
 - [Development Containers: Oh my zsh](#development-containers-oh-my-zsh)
   - [Description](#description)
@@ -19,7 +19,8 @@ A samlle project to let you try VS Code container with oh-my-zsh, powerlevel10k 
    2. Install those font
 4. Set the Terminal Font in VS code
    1. Go to Settings (JSON)
-   2. Add the line `"terminal.integrated.fontFamily": "<Your Installed Font>"` eg. `"terminal.integrated.fontFamily": "FiraCode NF"`
+   2. Add the line `"terminal.integrated.fontFamily": "<Your Installed Font>"`
+   3. eg. `"terminal.integrated.fontFamily": "FiraCode NF"`
 5. Click on Remote Window Icon in bottom left
 6. Reopen in Container
 
